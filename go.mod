@@ -1,4 +1,4 @@
-module Backend-Library-GoLogger
+module github.com/jggomezt/Backend-Library-GoLogger
 
 go 1.23.2
 
