@@ -13,7 +13,7 @@ import the library
     - `github.com/wordbox-tech/Backend-Library-GoLogger`
 
 Functions:
-    - `LoggerWordbox.Info("message: %s, another %s", "hi", "world")`
+        - `LoggerWordbox.Info("message: %s, another %s", "hi", "world")` 
     - `LoggerWordbox.Error("...")`
     - `LoggerWordbox.Warn("...")`
     - `LoggerWordbox.Debug("message: %s, another %s", "hi", "world")`
