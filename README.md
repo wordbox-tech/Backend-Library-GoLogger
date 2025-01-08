@@ -10,7 +10,7 @@ Logging in Go using the Uber zap library with specific configuration to create G
 
 ## Usage
 import the library  
-        - `github.com/wordbox-tech/Backend-Library-GoLogger`
+    - `github.com/wordbox-tech/Backend-Library-GoLogger`
 
 Functions:
         - `LoggerWordbox.Info("message: %s, another %s", "hi", "world")` 
