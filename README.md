@@ -9,10 +9,10 @@ Logging in Go using the Uber zap library with specific configuration to create G
     - `go mod tidy -v`
 
 ## Usage
-import the library  
+import the library
     - `github.com/wordbox-tech/Backend-Library-GoLogger`
 
-Functions:  
+Functions:
 - `LoggerWordbox.Info("message: %s, another %s", "hi", "world")`
 - `LoggerWordbox.Error("...")`
 - `LoggerWordbox.Warn("...")`
